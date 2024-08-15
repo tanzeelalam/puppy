@@ -18,14 +18,14 @@ func BigBark() string {
 	return dog.WhenGrownUp(Bark())
 }
 
-func from11() {
+func From11() {
 	fmt.Println("I'm from version 1.1.0")
 }
 
-func from12() {
+func From12() {
 	fmt.Println("I'm from version 1.2.0")
 }
 
-func from13() {
+func From13() {
 	fmt.Println("I'm from version 1.2.0")
 }
